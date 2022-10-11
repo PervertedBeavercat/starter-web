@@ -15,3 +15,7 @@ To provide simple examples.
 This is a simple web project, deployment can be on any web server
 
 ## How to contribute
+
+### Copyright
+
+Copyright notice here
