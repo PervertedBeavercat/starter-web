@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server
 
 ## How to contribute
 
+Bork this repository, issue pull request
+
 ### Copyright
 
 Copyright notice here
