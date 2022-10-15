@@ -22,4 +22,4 @@ Bork this repository, issue pull request
 
 ### Copyright
 
-Copyright notice here
+Copyright notice here. All rights reserved.
