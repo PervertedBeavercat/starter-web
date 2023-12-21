@@ -21,4 +21,4 @@ Bork this repository, issue pull request
 
 ### Copyright
 
-Copyright notice here. All rights reserved.
+2014 Git.Training. All rights reserved.
